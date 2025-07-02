@@ -54,7 +54,12 @@
 
 ---
 
-## 📊 Stats
+## 📊 Repository Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=msaswata15&color=blueviolet)
+![Forks](https://img.shields.io/github/forks/msaswata15/E-Com-using-Mern?style=social)
+![Stars](https://img.shields.io/github/stars/msaswata15/E-Com-using-Mern?style=social)
+<!-- Clones: Check in GitHub Insights > Traffic tab (not available as a badge) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaswata15&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaswata15&layout=compact&theme=tokyonight)
