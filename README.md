@@ -69,7 +69,7 @@
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/saswatamondal/)
-- [Portfolio](https://saswatamondal.vercel.app/)
+- [Portfolio](https://saswatamondal.me/)
 - [LeetCode](https://leetcode.com/u/saswatamondal/)
 
 ---
