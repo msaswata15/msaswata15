@@ -16,6 +16,7 @@
 
 ## 🏆 Achievements
 - **Pull Shark** on GitHub 🦈
+- [![trophy](https://github-profile-trophy.vercel.app/?username=msaswata15&theme=algolia&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 - Contributor to open source and collaborative projects with [JetBrains](https://github.com/JetBrains), [IBM Developer Skills Network](https://github.com/ibm-developer-skills-network), and more.
 
 ---
