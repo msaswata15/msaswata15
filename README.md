@@ -15,8 +15,8 @@
 ---
 
 ## 🏆 Achievements
+- ![YOLO Badge](https://img.shields.io/badge/YOLO-badge-yellowgreen) **YOLO** on GitHub 🟡
 - **Pull Shark** on GitHub 🦈
-- [![trophy](https://github-profile-trophy.vercel.app/?username=msaswata15&theme=algolia&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 - Contributor to open source and collaborative projects with [JetBrains](https://github.com/JetBrains), [IBM Developer Skills Network](https://github.com/ibm-developer-skills-network), and more.
 
 ---
@@ -61,7 +61,7 @@
 ![Forks](https://img.shields.io/github/forks/msaswata15/E-Com-using-Mern?style=social)
 ![Stars](https://img.shields.io/github/stars/msaswata15/E-Com-using-Mern?style=social)
 <!-- Clones: Check in GitHub Insights > Traffic tab (not available as a badge) -->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=msaswata15&theme=algolia&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaswata15&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaswata15&layout=compact&theme=tokyonight)
 
