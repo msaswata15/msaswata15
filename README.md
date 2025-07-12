@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saswata Mondal (he/him)
+# 👋 Hi, I'm Saswata Mondal 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white)](https://saswatamondal.vercel.app/)
