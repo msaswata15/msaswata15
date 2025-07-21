@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saswata Mondal 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white)](https://saswatamondal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white)](https://saswatamondal.me/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/saswatamondal/)
 ![Profile views](https://komarev.com/ghpvc/?username=msaswata15&color=blueviolet)
 
