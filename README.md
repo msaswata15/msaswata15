@@ -99,6 +99,8 @@ Full-stack hospital management system enabling seamless interaction between pati
 
 </div>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/msaswata15/msaswata15/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/msaswata15/msaswata15/output/github-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ## 🛠️ Technical Skills
