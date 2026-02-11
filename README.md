@@ -39,8 +39,7 @@ interests: ["Building Impactful Products", "Open Source", "Tech Communities", "P
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=msaswata15&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=msaswata15&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 - 🟡 **YOLO Badge** - GitHub Achievement for early repository commits
