@@ -47,7 +47,7 @@ research: 2 peer-reviewed papers accepted @ EIRTM 2026
 
 `Next.js 15` `React 19` `TypeScript` `Python` `Gemini` `GitHub Actions` `PostgreSQL` `Cloudflare`
 
-Production content platform at **[syntaxhut.tech](https://syntaxhut.tech)** with **2,800+ problem pages**, 470 company-tagged sets and **390+ auto-generated blog posts**, serving **3,400+ users / 41,000+ requests / 12 GB+ traffic**.
+Production content platform at **[syntaxhut.tech](https://syntaxhut.tech)** with **2,800+ problem pages**, 470 company-tagged sets and **390+ auto-generated blog posts**, serving **45.8K unique visitors and 333.5K requests in the last 30 days** across **42 countries** (Cloudflare).
 
 - **Fully automated blog generation & publishing** — a daily GitHub Actions cron job (6:00 AM UTC) generates up to 5 long-form technical posts with Gemini, complete with table of contents, keywords, category and read-time; validates each one through AI-pattern/template detection and a quality score; then **commits, deploys and submits the new URLs to IndexNow + the Google Indexing API automatically**. Zero manual steps between "topic" and "indexed live post" — read them at [syntaxhut.tech/blog](https://syntaxhut.tech/blog).
 - Contextual **AI tutor** grounded in the problem, difficulty and solution code on screen.
