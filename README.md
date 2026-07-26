@@ -4,7 +4,7 @@
 
 ### AI & Backend Engineer · LLMs, Agentic Systems, Scalable Backends
 
-**System Software Engineer Intern — AI Research & Development @ AMI** (American Megatrends International) · PPO secured
+**System Software Engineer Intern @ AMI** (American Megatrends International)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saswatamondal.me/)
@@ -22,33 +22,19 @@
 
 I build **intelligent systems at the intersection of backend engineering and applied AI** — LLM agents that actually ship, and the infrastructure that keeps them fast, private and reliable.
 
-At **AMI** I work in AI Research & Development on an enterprise **Firmware Copilot** for BIOS and Redfish engineering: agent workflows, execution pipelines, repository-aware context management, and secure on-prem LLM infrastructure used across 50+ engineers.
+Currently a **System Software Engineer Intern at AMI** (American Megatrends International) in Kolkata. Everything showcased below is my own open-source and personal work.
 
 ```yaml
 name: Saswata Mondal
 location: Kolkata, India
-role: System Software Engineer Intern — AI R&D @ AMI (PPO secured)
+role: System Software Engineer Intern @ AMI
 education: B.Tech CSE @ IEM Kolkata (2022–2026), CGPA 9.18/10
-focus: [LLM agents, RAG, MCP, backend systems, system design]
+focus: [LLM agents, RAG, backend systems, system design]
 languages: [Python, Go, Java, JavaScript/TypeScript, SQL]
-currently: domain adaptation & fine-tuning of Qwen / Gemma for BIOS engineering
+currently: building agentic RAG systems and scalable Python/Go backends
 dsa: 500+ problems · LeetCode 1672 (top 15% globally)
 research: 2 peer-reviewed papers accepted @ EIRTM 2026
 ```
-
----
-
-## Experience
-
-### American Megatrends International (AMI) — System Software Engineer Intern, AI R&D
-**Mar 2026 – Present · Kolkata, India · PPO secured**
-
-- Extended the open-source **Roo Code** assistant into an enterprise-grade **Firmware Copilot** for BIOS/Redfish development, redesigning agent workflows, execution pipelines and repository-aware context management.
-- Optimized agent orchestration, prompt construction and context retrieval — **60% lower LLM token consumption** and **up to 10× faster responses** than GitHub Copilot on internally benchmarked engineering prompts.
-- Integrated **Model Context Protocol (MCP)** servers and built native AI tools for autonomous interaction with firmware utilities, repository analysis and BIOS debugging workflows.
-- Built an **LLM-powered BIOS/system log analysis platform** (tool invocation + firmware-aware reasoning) automating log parsing, anomaly detection and root-cause analysis — **30%+ less manual debugging effort**.
-- Engineered secure enterprise AI infrastructure with **Python, FastAPI, LiteLLM, vector retrieval (RAG), local LLM inference and microservices**, preventing confidential firmware source leakage while enabling internal AI-assisted development.
-- Delivered multiple AI PoCs (internal LiteLLM platform, enterprise LLM infra, firmware-specific workflows) and presented in **VP-level technical demonstrations**.
 
 ---
 
@@ -146,13 +132,12 @@ Automated job matching, tailored resume/cover-letter generation, interview cheat
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-`Agentic AI` · `RAG` · `Prompt Engineering` · `Fine-tuning (Qwen, Gemma)` · `LiteLLM` · `Local LLM inference` · `NLP`
+`Agentic AI` · `RAG` · `Prompt Engineering` · `Fine-tuning` · `Local LLM inference` · `Vector databases` · `NLP`
 
 **Backend & Infrastructure**
 
