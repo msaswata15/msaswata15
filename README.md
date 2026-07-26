@@ -40,11 +40,16 @@ research: 2 peer-reviewed papers accepted @ EIRTM 2026
 
 ## Featured Projects
 
-### [SyntaxHut](https://github.com/msaswata15/syntaxhut) — AI-assisted DSA learning platform · [syntaxhut.tech](https://syntaxhut.tech)
+### [SyntaxHut](https://github.com/msaswata15/syntaxhut) — AI-assisted DSA learning platform
+
+[![Visit SyntaxHut](https://img.shields.io/badge/Live-syntaxhut.tech-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syntaxhut.tech)
+[![Blog](https://img.shields.io/badge/Auto--published_Blog-syntaxhut.tech/blog-1F7A5C?style=for-the-badge&logo=rss&logoColor=white)](https://syntaxhut.tech/blog)
+
 `Next.js 15` `React 19` `TypeScript` `Python` `Gemini` `GitHub Actions` `PostgreSQL` `Cloudflare`
 
-Production content platform with **2,800+ problem pages**, 470 company-tagged sets and 390+ automated blog posts, serving **3,400+ users / 41,000+ requests / 12 GB+ traffic**.
+Production content platform at **[syntaxhut.tech](https://syntaxhut.tech)** with **2,800+ problem pages**, 470 company-tagged sets and **390+ auto-generated blog posts**, serving **3,400+ users / 41,000+ requests / 12 GB+ traffic**.
 
+- **Fully automated blog generation & publishing** — a daily GitHub Actions cron job (6:00 AM UTC) generates up to 5 long-form technical posts with Gemini, complete with table of contents, keywords, category and read-time; validates each one through AI-pattern/template detection and a quality score; then **commits, deploys and submits the new URLs to IndexNow + the Google Indexing API automatically**. Zero manual steps between "topic" and "indexed live post" — read them at [syntaxhut.tech/blog](https://syntaxhut.tech/blog).
 - Contextual **AI tutor** grounded in the problem, difficulty and solution code on screen.
 - **Automated content pipeline**: [`leetcode-solutions`](https://github.com/msaswata15/leetcode-solutions) scrapes, solves, verifies via LeetCode submission, enriches with Gemini, then pushes the regenerated corpus into the frontend repo weekly — reducing manual effort by ~70%.
 - **Quality-as-CI**: per-problem enrichment scoring with a CI gate that fails PRs on thin-content regression (baseline 0.19%).
