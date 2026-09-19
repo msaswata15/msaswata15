@@ -22,7 +22,7 @@
 
 I build **intelligent systems at the intersection of Agentic AI, LLM applications, and backend engineering** — AI agents and the infrastructure that makes them reliable, scalable, and useful in real-world engineering workflows.
 
-Currently an **Associate Member of Technical Staff at Lattice Semiconductor**, following my AI R&D internship at AMI (American Megatrends International) in Kolkata. My professional work focuses on AI-assisted developer productivity, engineering workflows, code intelligence, LLM applications, and AI-powered tooling. Everything showcased below is my own open-source and personal work.
+Currently an **Associate Member of Technical Staff at Lattice Semiconductor**, following my AI internship at AMI (American Megatrends International) in Kolkata. My professional work focuses on AI-assisted developer productivity, engineering workflows, code intelligence, LLM applications, and AI-powered tooling. Everything showcased below is my own open-source and personal work.
 
 ```yaml
 name: Saswata Mondal
