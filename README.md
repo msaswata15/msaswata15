@@ -2,9 +2,9 @@
 
 # Saswata Mondal
 
-### AI & Backend Engineer · LLMs, Agentic Systems, Scalable Backends
+### AI Engineer · Agentic AI, LLM Systems & Backend Engineering
 
-**System Software Engineer Intern @ AMI** (American Megatrends International)
+**Associate Member of Technical Staff @ Lattice Semiconductor** (AI Engineering)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saswatamondal.me/)
@@ -20,19 +20,19 @@
 
 ## About Me
 
-I build **intelligent systems at the intersection of backend engineering and applied AI** — LLM agents that actually ship, and the infrastructure that keeps them fast, private and reliable.
+I build **intelligent systems at the intersection of Agentic AI, LLM applications, and backend engineering** — AI agents and the infrastructure that makes them reliable, scalable, and useful in real-world engineering workflows.
 
-Currently a **System Software Engineer Intern at AMI** (American Megatrends International) in Kolkata. Everything showcased below is my own open-source and personal work.
+Currently an **Associate Member of Technical Staff at Lattice Semiconductor**, following my AI R&D internship at AMI (American Megatrends International) in Kolkata. My professional work focuses on AI-assisted developer productivity, engineering workflows, code intelligence, LLM applications, and AI-powered tooling. Everything showcased below is my own open-source and personal work.
 
 ```yaml
 name: Saswata Mondal
 location: Kolkata, India
-role: System Software Engineer Intern @ AMI
+role: Associate Member of Technical Staff @ Lattice Semiconductor
 education: B.Tech CSE @ IEM Kolkata (2022–2026), CGPA 9.18/10
-focus: [LLM agents, RAG, backend systems, system design]
+focus: [Agentic AI, LLM systems, RAG, backend engineering]
 languages: [Python, Go, Java, JavaScript/TypeScript, SQL]
-currently: building agentic RAG systems and scalable Python/Go backends
-dsa: 500+ problems · LeetCode 1672 (top 15% globally)
+currently: building agentic AI systems, LLM applications, and scalable Python/Go backends
+dsa: 650+ problems · LeetCode 1672 (top 15% globally)
 research: 2 peer-reviewed papers accepted @ EIRTM 2026
 ```
 
@@ -114,7 +114,7 @@ Automated job matching, tailored resume/cover-letter generation, interview cheat
 - **Top 11 Finalist (Pan India)** — Capgemini Brand Quest 2026
 - **NPTEL Silver Elite** — top 5% performer
 - **Qualified internal round** — Smart India Hackathon 2024
-- **LeetCode 1672 rating**, top 15% globally · 500+ problems across DP, graphs, trees, greedy, binary search, advanced data structures
+- **LeetCode 1672 rating**, top 15% globally · 650+ problems across DP, graphs, trees, greedy, binary search, advanced data structures
 - **ISC school topper & House Captain** (2021–22) · ISC 94.75%, ICSE 92.4%
 
 ---
@@ -209,7 +209,7 @@ Automated job matching, tailored resume/cover-letter generation, interview cheat
 
 ## Let's Connect
 
-**Open to AI/LLM engineering and backend roles.** Happy to talk about agentic systems, RAG pipelines, or scaling backends.
+**Building AI systems at the intersection of Agentic AI, LLM applications, and backend engineering.** Happy to talk about agentic systems, RAG pipelines, developer tooling, or scalable backends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saswatamondal.me/)
