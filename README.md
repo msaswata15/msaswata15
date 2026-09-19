@@ -7,7 +7,7 @@
 **Associate Member of Technical Staff @ Lattice Semiconductor** (AI Engineering)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saswatamondal.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://msaswata15.github.io/)
 [![SyntaxHut](https://img.shields.io/badge/SyntaxHut-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syntaxhut-git-master-msaswata15s-projects.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode%201672-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saswatamondal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaswata15@gmail.com)
@@ -212,7 +212,7 @@ Automated job matching, tailored resume/cover-letter generation, interview cheat
 **Building AI systems at the intersection of Agentic AI, LLM applications, and backend engineering.** Happy to talk about agentic systems, RAG pipelines, developer tooling, or scalable backends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saswatamondal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saswatamondal.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://msaswata15.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaswata15@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saswatamondal/)
 
